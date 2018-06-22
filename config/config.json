@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "calendar",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "calendar",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "database": "calendar",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
